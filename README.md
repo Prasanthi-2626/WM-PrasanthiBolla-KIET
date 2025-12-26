@@ -121,7 +121,7 @@ Stateless cloud services with horizontal scaling
 Minimal per-node network overhead
 
 Repository Structure
-WM-PrasanthiBolla-IIITH/
+WM-PrasanthiBolla-KIET/
 ├── README.md
 ├── Software/
 ├── Hardware/
