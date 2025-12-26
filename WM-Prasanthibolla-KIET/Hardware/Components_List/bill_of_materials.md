@@ -1,0 +1,5 @@
+- ESP32 Dev Module
+- HC-SR04 Ultrasonic Sensor
+- Li-ion Battery (2200 mAh)
+- Voltage Regulator
+- Connecting Wires
